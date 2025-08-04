@@ -1,5 +1,4 @@
 ````
-markdown
 # ⚡️ Electron Learning Resource: Beginner to Advanced
 
 ---
